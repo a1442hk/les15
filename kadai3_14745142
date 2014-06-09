@@ -1,9 +1,9 @@
 #!/bin/bash
 #
-#kadai3 for system software class
+#kadai3 for the system software class
 #14745142
 
-echo "We are going to find a great common ddivisor."
+echo "We are going to find a great common divisor."
 echo "Enter a number."
 read x
 
