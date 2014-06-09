@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+#kadai3 for system software class
+#14745142
+
+echo "We are going to find a great common ddivisor."
+echo "Enter a number."
+read x
+
+echo "Enter the next number."
+read y
+
+i=0
+owari=0
+
+while [ $owari -eq 0 ] ; do
+   i=$((y%x))
+   y=$x
+   x=$i
+   if [ $x -eq 0 ] ; then
+      owari=1
+   fi
+done
+
+echo "The great common dividor is " $y
