@@ -6,6 +6,6 @@ This shell script is intended to calculate a great common divisor of two arbitra
 【software name】	gcd ver1.01
 【author】 a1442hk
 【date】 2014/6/9
-【e-mail】 a1442hl@aiit.ac.jp
+【e-mail】 a1442hk@aiit.ac.jp
 【copyright】waived
 【hardware requirement】 UNIX
